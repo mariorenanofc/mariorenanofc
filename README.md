@@ -1,67 +1,21 @@
 <img src="https://user-images.githubusercontent.com/99850715/202884791-c06878dd-5818-4b73-ab3b-164a96e3d477.svg" align="right" height="550em">
 
-<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi, I'm Mario Renan! </h1> 
+# 💫 Let's Go:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariorenanofc&color=green" alt="Profile views" /> </p>
+[![](https://visitcount.itsvg.in/api?id=mariorenanofc&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<br> 
-
-- 🥩  I'm acting as a butcher
-
-- 💻  Emigrating to the System Development area ...
-
-- 🔥  Developing Front End projects
-
-- 📚 Studying Font End at [devaria.com.br](https://www.devaria.com.br/)
-
-- 🌐 Future team leader in the foreign market
-
-<br> <br>
+🥩 I'm acting as a butcher<br><br>💻 Emigrating to the System Development area ...<br><br>🔥 Developing Front End projects<br><br>📚 Studying Font End at devaria.com.br<br><br>🌐 Future team leader in the foreign market
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mariorenandev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariorenandev/) 
 
-<div> 
- <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%9A%A7%20progressing%20Web-Developer%20...;&center=true&width=420&height=35&color=00,124e99,e11493&vCenter=true&size=22&pause=1000%22"></a>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariorenanofc&theme=merko&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariorenanofc&theme=merko&hide_border=false)<br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariorenanofc&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="" >
 </div>
 
-##
-
-<br> <br>
-
-<div style="display: inline" align="center">
-  <a href="https://github.com/mariorenanofc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariorenanofc&layout=compact&langs_count=7&theme=tokyonight"/>
-   
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariorenanofc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-  
-<br>
-  
-  ##
-  
-<div style="display: inline" justify-content="center"  align="center"><br>
-  <img align="center" alt="mario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="mario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- </div>
-  
-  ##
-  
-  <div align="center"> 
-  <a href="https://www.instagram.com/mariorenandev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mariovendasonline10k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariorenandev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
-
-<!---
-mariorenanofc/mariorenanofc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
