@@ -21,9 +21,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=mariorenanofc&theme=merko&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mariorenanofc&theme=merko&hide_border=false)<br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?
           
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorenanofc&layout=compact&theme=merko)](https://github.com/mariorenanofc)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorenanofc&langs_count=10&layout=compact&theme=merko)](https://github.com/mariorenanofc)
+
 
           
 </div>
