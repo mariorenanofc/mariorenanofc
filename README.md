@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=mariorenanofc&icon=0&color=8)](https://visitcount.itsvg.in)
 
-🥩 I'm acting as a butcher<br><br>
+👔 Looking for a vacancy in the IT and systems development market<br><br>
 💻 Emigrating to the System Development area ...<br><br>
 🔥 Developing Front End projects<br><br>
 📚 Studying Font End at [devaria.com.br](https://www.devaria.com.br/)<br><br>
