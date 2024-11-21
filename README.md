@@ -1,13 +1,17 @@
 
 [![](https://visitcount.itsvg.in/api?id=mariorenanofc&icon=0&color=8)](https://visitcount.itsvg.in)
 
-👔 Looking for a vacancy in the IT and systems development market<br><br>
-💻 Emigrating to the System Development area ...<br><br>
-🔥 Developing Front End projects<br><br>
-📚 Studying Font End at [devaria.com.br](https://www.devaria.com.br/)<br><br>
-🌐 Future team leader in the foreign market
+# 👋 About Me
 
+💻 Desenvolvedor de Sistemas Web Escaláveis com mais de 2 anos de experiência, especializado em tecnologias como NodeJS, JavaScript, TypeScript, NextJS e Python.
 
+🎯 Focado em criar projetos de alta performance e automação de processos para empresas e pessoas, com o objetivo de impactar positivamente por meio de soluções tecnológicas.
+
+📚 Atualmente cursando pós-graduação em FullStack e sempre aprendendo novas tecnologias para evoluir como profissional e atingir meu objetivo de trabalhar remotamente, unindo paixão e liberdade geográfica.
+
+🔥 Apaixonado por tecnologia desde a infância, dedico meu tempo a explorar e desenvolver soluções inovadoras, com foco no aprendizado contínuo e na construção de projetos impactantes.
+
+🌟 Estou em busca de oportunidades para colaborar em projetos desafiadores e crescer como parte de uma equipe!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariorenandev/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariorenandev/) 
