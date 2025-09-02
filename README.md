@@ -44,3 +44,5 @@
 - **Graduação** em Análise e Desenvolvimento de Sistemas - *Universidade Estácio de Sá (2024)*
 - **Curso Técnico** em Desenvolvimento de Sistemas - *ETE (2024)*
 - **Curso Profissionalizante** em Desenvolvimento de Software - *Devaria (2023)*
+
+⭐ Desenvolvido com dedicação por [*Mário Renan*](https://www.mariorenanofc.com.br/)
